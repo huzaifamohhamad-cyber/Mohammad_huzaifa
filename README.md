@@ -10,7 +10,7 @@ About Me <br>
 -HTML<br>
 -CSS<br>
 -JAVA SCRIPT<br>
--GIT NAD GITHUB<br>
+-GIT AND GITHUB<br>
 -C,C++,JAVA(MODERATE)<br>
 -REACT<br>
 -DJANGO(BASIC)<br>
